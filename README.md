@@ -1,4 +1,4 @@
-# Satisfying Physics Project with Three.js: Dynamic Dice
+# Satisfying Physics with Three.js: Dynamic Dice
 
 Physics engines add dynamic and satisfying interactions. Rapier is a fast, stable physics engine and it works well with Three.js.
 
